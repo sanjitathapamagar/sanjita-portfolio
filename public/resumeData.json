@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "Sanjita T. Magar",
+    "occupation": "Software Engineer @Cotiviti",
+    "description": "Full Stack React Developer by Day",
+    "image": "sanjita.jpg",
+    "bio": "My name is Sanjita, I'm a Full Stack Angular Developer. Currently I'm working at Cotiviti ",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "sanjitaofficial@gmail.com",
+    "phone": "+977 123 456 0850",
+    "address": {
+      "street": "Bishal Nagar",
+      "city": "Kathmandu",
+      "state": "Nepal",
+      "zip": "44600"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sanztah.kanxhi.7",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sanjita-thapa-magar-226907194/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sanztah/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/stmofficial",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Following are my skillset",
+    "education": [
+      {
+        "school": "Nobel Academy",
+        "degree": "Bachelor in Computer Science",
+        "graduated": "September 2017",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Cotiviti",
+        "title": "Software Engineer",
+        "years": "Feb 2019 - Present",
+        "description": "Building web application"
+      },
+      {
+        "company": "IT Sutra",
+        "title": "Junior Developer",
+        "years": "Feb 2017 - Feb 2018",
+        "description": "Building android applications"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Angular",
+        "level": "100%"
+      },
+      {
+        "name": "Sql",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Amazing personality, helpful, smart thinking....great to work with her.",
+        "user": "Amir Shrestha"
+      },
+      {
+        "text": " She is intelligent and very passionate about writing quality software. She learns and becomes better much faster than most other developers.",
+        "user": "Shovit Khadka"
+      }
+    ]
+  }
+}
