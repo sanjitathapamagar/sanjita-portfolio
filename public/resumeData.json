@@ -14,8 +14,6 @@
       "state": "Nepal",
       "zip": "44600"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
@@ -34,7 +32,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/stmofficial",
+        "url": "https://github.com/sanjitathapamagar",
         "className": "fa fa-github"
       }
     ]
